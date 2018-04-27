@@ -18,5 +18,8 @@ author:
   url:               http://rameshbalan.github.io
   email:             yugendrabalan@gmail.com
 
+# Emoji
+plugins:
+  - jemoji
 # Custom vars
 #version:             1.0.0
