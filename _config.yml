@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Python for Biologists
+tagline:             'A Crash Course'
+description:         'Python Programming for Biologists with an Introduction to Linux'
+url:                 http://rameshbalan.github.io/Python-Course
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Balan Ramesh
+  url:               http://rameshbalan.github.io
+  email:             yugendrabalan@gmail.com
+
+# Custom vars
+#version:             1.0.0
